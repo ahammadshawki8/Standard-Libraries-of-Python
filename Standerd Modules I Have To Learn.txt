@@ -1,24 +1,24 @@
-math
-random
+math ......................d
+random.....................d
 numbers
-cmath	
+cmath......................d
 fractions
 decimal
 statistics
 
-os
-sys
+os........................d
+sys.......................d
 cmd
 
 functools
-itertools
+itertools.................d
 collections
 operator
 	
-csv	
+csv............	
 unittest
 re
 
 time
-datetime
+datetime..............
 calander
