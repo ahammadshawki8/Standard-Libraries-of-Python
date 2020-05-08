@@ -1,14 +1,10 @@
 math ......................d
 random.....................d
-numbers
 cmath......................d
-fractions
-decimal
-statistics
+statistics....
 
 os........................d
 sys.......................d
-cmd
 
 functools
 itertools.................d
