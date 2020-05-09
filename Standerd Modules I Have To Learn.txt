@@ -1,20 +1,21 @@
 math ......................d
 random.....................d
 cmath......................d
-statistics....
+statistics.................d
 
-os........................d
-sys.......................d
+os.........................d
+sys........................d
+subprocess
 
 functools
-itertools.................d
+itertools..................d
 collections
 operator
 	
-csv............	
+csv........................d
 unittest
 re
 
 time
 datetime..............
-calander
+

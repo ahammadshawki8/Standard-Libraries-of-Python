@@ -120,7 +120,7 @@ for key, value in file_data.items():
     if key=="Hobbyist":
         del key
 
-# or , we can do this in this way too.
+# or, we can do this in this way too.
 del file_data["ConvertedComp"]
 
 # to dump the python object into json file we will use the dump() method.
