@@ -1,8 +1,10 @@
-# Standerd Modules make programming easy
+![poster](https://github.com/ahammadshawki8/Standard-Libraries-of-Python/blob/master/standard.jpg)
 
-Python Developers has already created many basic and beyond basic code implementations and they are stored in the standerd modules of Python.
-So, every python beginners need to learn little bit of standerd modules. Some of the implementations in standerd modules are so basic that we need to use them several times in our regular coding.
-After learning this module, programmers will have a good knowledge about standerd modules.
+# Standard Modules make programming easy
+
+Python Developers has already created many basic and beyond basic code implementations and they are stored in the standard modules of Python.
+So, every python beginners need to learn little bit of standard modules. Some of the implementations in standard modules are so basic that we need to use them several times in our regular coding.
+After learning this module, programmers will have a good knowledge about standard modules.
 
 
 # After learning the topic of this repository, coders can check out the stuffs below for more information:
